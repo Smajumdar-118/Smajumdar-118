@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Sayan Majumdar 👋</h1>
 <p align="center">
   <b>Infor M3 Consultant & Modern Backend-Focused Software Engineer</b><br>
-  <i>Building robust, enterprise & web solutions. Targeting SWE/SDE roles at Flipkart, Myntra, Cisco, Adobe & more!</i>
+  <i>Building robust, enterprise & web solutions.</i>
 </p>
 
 ---
