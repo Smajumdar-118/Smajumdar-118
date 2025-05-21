@@ -74,3 +74,6 @@ System Design, DSA, and DevOps tools like Docker to meet the demands of top-tier
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smajumdar-118&show_icons=true&theme=radical" alt="Smajumdar-118's GitHub stats" />
 </p>
+
+
+> ⚡ “Code with passion, automate with precision.”
